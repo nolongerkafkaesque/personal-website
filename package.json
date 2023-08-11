@@ -14,7 +14,7 @@
     "jest:watch": "jest --watch",
     "test": "npm run typecheck && npm run prettier && npm run lint && npm run jest && npm run build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emotion/react": "^11.10.5",
