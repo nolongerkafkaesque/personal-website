@@ -18,7 +18,7 @@ export default function App() {
 
       <Container style={{ display: "flex", flexDirection: "column", gap: 10 }}   >
 
-        <Title style={{ alignSelf: "center", fontSize: 50 }} order={1}  >Welcome To My Portfolio</Title>
+        <Title style={{ alignSelf: "center" }} order={1} >Welcome To My Portfolio</Title>
 
         <Flex gap="md"
           justify="center"
