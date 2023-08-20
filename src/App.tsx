@@ -73,7 +73,7 @@ export default function App() {
 
           <video controls width="35%">
 
-            <source src="/video.mp4" type="video/mp4"
+            <source src="https://drive.google.com/uc?id=1jhaM4iuhEdXejVBwHFnEaECaEphenQtx" type="video/mp4"
             />
             Sorry, your browser doesn't support videos.
           </video>
