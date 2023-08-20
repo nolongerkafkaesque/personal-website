@@ -63,10 +63,22 @@ export default function App() {
         </Flex>
         <Title td="underline" order={2}>Elevator Pitch :</Title>
 
+        <Flex
+          gap="md"
+          justify="center"
+          align="center"
+          direction="column"
+          wrap="wrap"
+        >
 
+          <video controls width="35%">
 
+            <source src="/video.mp4" type="video/mp4"
+            />
+            Sorry, your browser doesn't support videos.
+          </video>
 
-
+        </Flex>
 
 
 
